@@ -12,11 +12,11 @@ Software Engineering student interested in **AI, chatbots, algorithms**, and bui
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiabregu&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=santiabregu&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiabregu&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=santiabregu&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
