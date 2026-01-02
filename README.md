@@ -1,27 +1,30 @@
-<!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineering+Student;AI+%7C+Chatbots+%7C+Algorithms;Coffee+Lover+%E2%98%95&center=true&width=500" />
+  <img src="https://readme-typing-svg.demolab.com?lines=AI+%7C+Chatbots+%7C+Algorithms;Software+Engineering+Student;Building+cool+stuff+with+code+%E2%9C%A8&center=true&width=500" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Chatbots-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-Software%20Engineering-6A1B9A?style=for-the-badge" />
 </p>
 
 ---
 
-### 👋 Hi, I'm Santia
+## 👋 Hi, I'm Santia
 
-Software Engineering student interested in **AI, chatbots, algorithms**, and building practical systems.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=santiabregu&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=santiabregu&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+I'm a **Software Engineering student** interested in **AI, chatbots, algorithms**,  
+and building practical systems that actually do things.
 
 ---
 
-### 🛠 Tech I use
+## 🧠 Things I like working on
+- 🤖 Conversational AI & chatbots  
+- 🧩 Algorithms & problem solving  
+- 🔎 Search systems & AI tooling  
+- 🛠 Backend & practical architectures  
+
+---
+
+## 🛠 Tech I use
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -29,6 +32,13 @@ Software Engineering student interested in **AI, chatbots, algorithms**, and bui
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat&logo=rasa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
 </p>
+
+---
+
+## ✨ Featured projects
+- 🤍 **BabyChatBot** – AI chatbot for pregnancy support  
+- 🧠 **SmartChoice** – Vector-based search with FastAPI  
+- 🔐 **medical-image-security** – Crypto & security experiments  
 
 ---
 
