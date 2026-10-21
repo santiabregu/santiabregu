@@ -11,7 +11,7 @@
 
 ## 👋 Hi, I'm Santia
 
-I'm a **Software Engineering student** interested in **AI, chatbots, algorithms**,  
+I'm a **Software Engineer** interested in **AI, chatbots, algorithms**,  
 and building practical systems that actually do things.
 
 ---
